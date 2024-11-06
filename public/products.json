@@ -1,0 +1,173 @@
+[
+    {
+        "product_id": "1",
+        "product_title": "Apple MacBook Air M1",
+        "product_image": "https://istockbd.com/cdn/shop/products/MacBooK-Air-M1-Gold-iStockBD.png?v=1649504754&width=720",
+        "category": "macbook",
+        "price": 999.99,
+        "description": "Apple MacBook Air with M1 chip, 13.3-inch Retina display.",
+        "Specification": [
+            "Apple M1 chip",
+            "8GB RAM",
+            "256GB SSD",
+            "13.3-inch Retina display",
+            "macOS"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+ 
+    {
+        "product_id": "2",
+        "product_title": "Samsung Galaxy S21",
+        "product_image": "https://brotherselectronicsbd.com/image/cache/catalog/demo/product/Samsung/Smartphone/S21%20Ultra%205G/S21-ultra-5G-Black-800x800.png",
+        "category": "phones",
+        "price": 799.99,
+        "description": "Samsung Galaxy S21 smartphone with 120Hz display.",
+        "Specification": [
+            "6.2-inch Dynamic AMOLED 2X display",
+            "128GB storage",
+            "8GB RAM",
+            "Triple camera system",
+            "Android OS"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "3",
+        "product_title": "Dell XPS 13",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB5AnxBufmg2e2fD6XXHbjIOyPW5nPEFxeZw&s",
+        "category": "laptops",
+        "price": 1199.99,
+        "description": "Dell XPS 13 with Intel Core i7 processor, perfect for productivity.",
+        "Specification": [
+            "Intel Core i7",
+            "16GB RAM",
+            "512GB SSD",
+            "13.4-inch FHD+ display",
+            "Windows 10"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "4",
+        "product_title": "Apple Watch Series 6",
+        "product_image": "https://i5.walmartimages.com/seo/Pre-Owned-Apple-Watch-Series-6-40mm-WiFi-Only-Space-Gray-Smart-Watch_b6acc69b-c6f3-473a-ab73-9ebb989d76c7.2dac0d9b1394716364177ebfc8f978f6.jpeg",
+        "category": "smartwatches",
+        "price": 399.99,
+        "description": "Apple Watch Series 6 with health monitoring and fitness tracking.",
+        "Specification": [
+            "44mm case",
+            "Heart rate monitoring",
+            "Blood oxygen sensor",
+            "GPS + Cellular",
+            "watchOS"
+        ],
+        "availability": false,
+        "rating": 4.6
+    },
+    {
+        "product_id": "5",
+        "product_title": "Sony WH-1000XM4 Headphones",
+        "product_image": "https://www.sony-asia.com/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&wid=330&bgcolor=FFFFFF&bgc=FFFFFF",
+        "category": "accessories",
+        "price": 349.99,
+        "description": "Noise-canceling over-ear headphones with immersive sound quality.",
+        "Specification": [
+            "Active Noise Cancelling",
+            "30 hours battery life",
+            "Bluetooth 5.0",
+            "Touch controls",
+            "Quick charge support"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "6",
+        "product_title": "iPhone 13 Pro",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/3412-49256.jpg",
+        "category": "phones",
+        "price": 999.99,
+        "description": "Apple iPhone 13 Pro with A15 Bionic chip and Super Retina display.",
+        "Specification": [
+            "6.1-inch Super Retina XDR display",
+            "128GB storage",
+            "Triple 12MP camera",
+            "A15 Bionic chip",
+            "iOS"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "7",
+        "product_title": "ASUS ROG Zephyrus G14",
+        "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Asus-ROG-Zephyrus-1-5.jpg",
+        "category": "laptops",
+        "price": 1499.99,
+        "description": "Gaming laptop with AMD Ryzen 9 and NVIDIA GeForce RTX 3060.",
+        "Specification": [
+            "AMD Ryzen 9 5900HS",
+            "16GB RAM",
+            "1TB SSD",
+            "14-inch QHD display",
+            "NVIDIA GeForce RTX 3060"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "8",
+        "product_title": "Fitbit Versa 3",
+        "product_image": "https://m.media-amazon.com/images/I/612VReXucKL._AC_UF894,1000_QL80_.jpg",
+        "category": "smartwatches",
+        "price": 229.95,
+        "description": "Smartwatch with heart rate monitor and built-in GPS.",
+        "Specification": [
+            "Heart rate monitor",
+            "Built-in GPS",
+            "20+ exercise modes",
+            "6+ days battery life",
+            "Compatible with Android & iOS"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "9",
+        "product_title": "Samsung Galaxy Buds Pro",
+        "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPAd_NaOmAQ8tPNt4r-LttEhxfNjxOYZNTA&s",
+        "category": "accessories",
+        "price": 199.99,
+        "description": "High-quality wireless earbuds with active noise cancelling.",
+        "Specification": [
+            "Active Noise Cancelling",
+            "11 hours of playtime",
+            "Wireless charging",
+            "IPX7 water resistance",
+            "Bluetooth 5.0"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "10",
+        "product_title": "Apple MacBook Air M2",
+        "product_image": "https://adminapi.applegadgetsbd.com/storage/media/large/MacBook-Air-M2-Midnight-8137.jpg",
+        "category": "macbook",
+        "price": 2999.99,
+        "description": "Apple MacBook Air with M2 chip, 13.3-inch Retina display.",
+        "Specification": [
+            "Apple M2 chip",
+            "16GB RAM",
+            "256GB SSD",
+            "13.3-inch Retina display",
+            "macOS"
+        ],
+        "availability": true,
+        "rating": 4.9
+    }
+]
