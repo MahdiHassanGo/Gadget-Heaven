@@ -1,6 +1,10 @@
 
 Welcome to **Gadget Heaven** – A one-stop shop for everything related to electronics! A carefully chosen range of laptops, phones, MacBooks, accessories, and more are available on our website, all of which are intended to provide you with the greatest possible experience.
 
+
+
+
+
 ## Live Website Link
 Explore the live site here: (https://gadget-heavens-react.netlify.app/)
 
@@ -21,6 +25,7 @@ To give customers a flawless shopping experience, Gadget Heaven is built with Re
 ### Data Handling and Persistence
 
 - **Local Storage**:  `Cart` and `Wishlist` data, allowing users to retain their selections even after refreshing or returning to the site.
+
 
 ### Key Features
 
