@@ -8,6 +8,8 @@ Welcome to **Gadget Heaven** – A one-stop shop for everything related to elect
 ## Live Website Link
 Explore the live site here: (https://gadget-heavens-react.netlify.app/)
 
+<img src="./Gadget Heaven.png">
+
 ## Requirement Document
 Find the full requirements and specifications here: (https://github.com/ProgrammingHero1/B10-A8-gadget-heaven/blob/main/Batch-10_Assignment-08.pdf)
 
