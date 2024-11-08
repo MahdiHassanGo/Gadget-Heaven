@@ -1,7 +1,7 @@
 
 const Footer = () => {
   return (
-      <footer className="border shadow-md mt-8">
+      <footer className="border shadow-md mt-8 ">
 
           <div className="text-center">
               <h1 className="text-4xl font-bold my-2">Gadget Heaven</h1>
@@ -17,7 +17,7 @@ const Footer = () => {
                   <a className="link link-hover text-gray-500">Return</a>
               </nav>
 
-              <nav className="flex flex-col items-center">
+              <nav className="flex flex-col items-center ml-7 md:ml-0">
                   <h6 className="footer-title text-black">Company</h6>
                   <a className="link link-hover text-gray-500">About us</a>
                   <a className="link link-hover text-gray-500">Career</a>
@@ -25,7 +25,7 @@ const Footer = () => {
                   
               </nav>
 
-              <nav className="flex flex-col items-center">
+              <nav className="flex flex-col items-center ml-4 md:ml-0">
                   <h6 className="footer-title text-black">Legal</h6>
                   <a className="link link-hover text-gray-500">Terms of Service</a>
                   <a className="link link-hover text-gray-500">Privacy policy</a>

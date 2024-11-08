@@ -31,7 +31,7 @@ const ProductCategory = () => {
     return (
         <>
             
-            <div className="grid grid-cols-3 gap-3">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
                 {
                     product.map(product => <Product key={product.id} product={product}></Product>)
                 }

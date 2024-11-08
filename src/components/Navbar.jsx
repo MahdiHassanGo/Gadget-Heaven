@@ -13,7 +13,7 @@ const Navbar = () => {
         <li>
             <NavLink to='/' className={({ isActive }) =>
                         isActive
-                            ? "text-white font-semibold underline pb-1"
+                            ? "text-black font-semibold underline pb-1"
                             : isHomePage
                             ? "text-white"
                             : "text-gray-700"
@@ -22,23 +22,23 @@ const Navbar = () => {
                     </li>
         <li><NavLink to='/statistics' className={({ isActive }) =>
                         isActive
-                            ? "text-purple-600 font-semibold pb-1"
+                            ? "text-purple-600 font-semibold underline pb-1"
                             : isHomePage
-                            ? "text-white"
+                            ? "text-black"
                             : "text-gray-700"
                     }>Statistics</NavLink></li>
         <li><NavLink to='/dashboard' className={({ isActive }) =>
                         isActive
                             ? "text-purple-600 font-semibold pb-1"
                             : isHomePage
-                            ? "text-white"
+                            ? "text-black"
                             : "text-gray-700"
                     }>Dashboard</NavLink></li>
                       <li><NavLink to='/aboutus' className={({ isActive }) =>
                         isActive
                             ? "text-purple-600 font-semibold pb-1"
                             : isHomePage
-                            ? "text-white"
+                            ? "text-black"
                             : "text-gray-700"
                     }>About Us</NavLink></li>
     </>
@@ -51,7 +51,7 @@ const Navbar = () => {
     const homeRoute = location.pathname === '/' || location.pathname.startsWith('/productCards/')
 
     return (
-        <div className={`navbar w-11/12 mx-auto mt-4  ${ homeRoute ? 'bg-[#9538E2] rounded-t-[24px]' : 'bg-white'}`}>
+        <div className={`navbar w-11/12 mx-auto mt-4 flex  md:flex-row  ${ homeRoute ? 'bg-[#9538E2] rounded-t-[24px]' : 'bg-white'}`}>
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -75,7 +75,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className=''>
-                <Link to="/" className="btn btn-ghost text-2xl border-0 focus:outline-none hover:bg-transparent">
+                <Link to="/" className="btn btn-ghost text-xl md:text-2xl border-0 focus:outline-none hover:bg-transparent">
                     <span className={  isHomePage ? "flex flex-row text-white" : "text-black flex flex-row"}>
                     <FaMobileAlt />  
                         Gadget Heaven
@@ -89,12 +89,12 @@ const Navbar = () => {
                     {links}
                 </ul>
             </div>
-            <div className="navbar-end">
+            <div className="navbar-end ">
 
                 <div className="flex-none">
                   <Link to='/dashboard'> 
                   <div className="dropdown dropdown-end">
-                        <div tabIndex={0} role="button" className="btn btn-ghost btn-circle bg-white mb-2">
+                        <div tabIndex={0} role="button" className="btn btn-ghost btn-circle bg-white mb-2 text-black">
                             <div className="indicator">
                                 <svg
                                     xmlns="http://www.w3.org/2000/svg"
