@@ -6,7 +6,7 @@ Welcome to **Gadget Heaven** – A one-stop shop for everything related to elect
 
 
 ## Live Website Link
-Explore the live site here: (https://gadget-heavens-react.netlify.app/)
+Explore the live site here: ([https://gadget-heavens-react.netlify.app/](https://gadget-heaven-project-react.netlify.app/))
 
 <img src="./Gadget Heaven.png">
 
